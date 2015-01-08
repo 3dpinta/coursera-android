@@ -11,6 +11,9 @@ android {
 
         testApplicationId "com.mamlambo.article.simplecalc.test"
         testInstrumentationRunner "android.test.InstrumentationTestRunner"
+        testHandleProfiling true
+        testFunctionalTest true
+        
     }
 
     buildTypes {
