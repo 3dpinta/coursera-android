@@ -16,8 +16,8 @@ AS using [Gradle][gradle]
   - [X] [HelloAndroid](./HelloAndroid/) (compile: 18, min: 13, target: 19)
   - [X] [TheAnswer](./TheAnswer/) (compile: 17, min: 13, target: 19)
   - [X] [SimpleCalc](./SimpleCalc/) (compile: 18 min: 7 target: 18)
-  - [X] [DeskClock](./DeskClock/)
-  - [ ] [WikiNotes](./WikiNotes/)
+  - [X] [DeskClock](./DeskClock/) (compile: 18 min: 17 target: 17)
+  - [X] [WikiNotes](./WikiNotes/) (compile: 18, min: 11, target: 18)
 
 ## Week 2
 
