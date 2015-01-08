@@ -10,7 +10,10 @@ android {
         targetSdkVersion 18
 
         testApplicationId "com.mamlambo.article.simplecalc.test"
-        testInstrumentationRunner "android.test.InstrumentationTestRunner"
+	testInstrumentationRunner "android.test.InstrumentationTestRunner"
+	testHandleProfiling true
+	testFunctionalTest true
+
     }
 
     buildTypes {

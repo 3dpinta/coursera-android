@@ -1,2 +1,1 @@
-include ':simpleCalc'
-include ':simpleCalcTest'
+include ':app'
