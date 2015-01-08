@@ -20,7 +20,7 @@ AS using [Gradle][gradle]
 
   - [ ] [AppFundamentalsVideoSourceExamples](./AppFundamentalsVideoSourceExamples/)
   - [X] [MapLocation](./MapLocation/) (compile: 18, min: 13, target: 19)
-  - [ ] [MapLocationFromContacts](./MapLocationFromContacts/)
+  - [X] [MapLocationFromContacts](./MapLocationFromContacts/) (compile: 18, min: 13, target: 19)
 
 ## Week 3
 
