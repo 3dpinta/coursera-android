@@ -13,8 +13,8 @@ AS using [Gradle][gradle]
 
 ## Week 1
 
-  - [X] [HelloAndroid](./HelloAndroid/)
-  - [ ] [TheAnswer](./TheAnswer/)
+  - [X] [HelloAndroid](./HelloAndroid/) (compile: 18, min: 13, target: 19)
+  - [X] [TheAnswer](./TheAnswer/) (compile: 17, min: 13, target: 19)
 
 ## Week 2
 
@@ -60,7 +60,7 @@ AS using [Gradle][gradle]
 
 ## Week 5
 
-  - [X] [AlarmCreate](./AlarmCreate/)
+  - [X] [AlarmCreate](./AlarmCreate/) (compile: 18, min: 16, target: 19)
   - [ ] [BcastRecCompBcast](./BcastRecCompBcast/)
   - [ ] [BcastRecCompOrdBcast](./BcastRecCompOrdBcast/)
   - [ ] [BcastRecCompOrdBcastWithResRec](./BcastRecCompOrdBcastWithResRec/)
