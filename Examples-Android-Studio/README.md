@@ -27,9 +27,9 @@ AS using [Gradle][gradle]
 
 ## Week 3
 
-  - [ ] [FragmentDynamicLayout](./FragmentDynamicLayout/)
-  - [ ] [FragmentDynamicLayoutWithActionBar](./FragmentDynamicLayoutWithActionBar/)
-  - [ ] [FragmentProgrammaticLayout](./FragmentProgrammaticLayout/)
+  - [X] [FragmentDynamicLayout](./FragmentDynamicLayout/)
+  - [X] [FragmentDynamicLayoutWithActionBar](./FragmentDynamicLayoutWithActionBar/)
+  - [X] [FragmentProgrammaticLayout](./FragmentProgrammaticLayout/)
   - [ ] [FragmentQuoteViewerWithActivity](./FragmentQuoteViewerWithActivity/)
   - [ ] [FragmentStaticConfigLayout](./FragmentStaticConfigLayout/)
   - [ ] [FragmentStaticLayout](./FragmentStaticLayout/)
